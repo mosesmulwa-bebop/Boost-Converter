@@ -19,3 +19,14 @@ This repo covers the design and simulation of a Boost Converter in Simulink.
 
 ![Final Circuit](/Images/Final_Circuit.PNG "Final Circuit")
 
+
+## Input Voltage
+</br>
+
+![Input Voltage](/Images/Input_Voltage.PNG "Input Voltage")
+
+
+## Output Voltage
+</br>
+
+![Output Voltage](/Images/LIGHT/Output_Voltage.PNG "Output Voltage")
