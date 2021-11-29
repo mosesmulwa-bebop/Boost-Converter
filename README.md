@@ -16,3 +16,5 @@ This repo covers the design and simulation of a Boost Converter in Simulink.
 
 \Delta
 
+&Delta;
+Δ 
