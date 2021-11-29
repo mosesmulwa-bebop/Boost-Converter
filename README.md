@@ -11,8 +11,8 @@ This repo covers the design and simulation of a Boost Converter in Simulink.
 | Load Power  Po | -  |
 | Load Current  Io | 0.5A < I < 1A  |
 | Voltage Ripple  $\Delta$ Vo | < +- 5%  |
-| Current Ripple  $\Delta$ Il | CCCM  |
+| Current Ripple  $\Delta$ IL | CCCM  |
 | Frequency Fsw | 20 KHz  |
 
-
+\Delta
 
