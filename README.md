@@ -15,3 +15,6 @@ This repo covers the design and simulation of a Boost Converter in Simulink.
 | Frequency Fsw | 20 KHz  |
 
 
+## Table of Contents
+
+[I'm a relative reference to a repository file](../Images)
