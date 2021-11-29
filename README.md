@@ -14,7 +14,8 @@ This repo covers the design and simulation of a Boost Converter in Simulink.
 | Current Ripple  &Delta; IL | CCCM  |
 | Frequency Fsw | 20 KHz  |
 
+## Circuit Design
+</br>
 
-## Table of Contents
+![Final Circuit](/Images/Final_Circuit.PNG "Final Circuit")
 
-[I'm a relative reference to a repository file](/Images)
