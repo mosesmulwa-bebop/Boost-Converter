@@ -17,4 +17,4 @@ This repo covers the design and simulation of a Boost Converter in Simulink.
 
 ## Table of Contents
 
-[I'm a relative reference to a repository file](../Images)
+[I'm a relative reference to a repository file](/Images)
